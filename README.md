@@ -16,8 +16,6 @@ It features a modern sliding animation between login and register panels with to
 
 ## 📸 Screenshots
 
-| Register Panel |
-|-------------|----------------|
 | ![First view](output-1.png) | ![Full view](output-2.png) |
 
 ---
