@@ -129,6 +129,7 @@ h1 {
   height: 100%;
   width: 100%;
   z-index: 3;
+  pointer-events: none; /* ✅ Fix added here */
 }
 
 .toggle-box::before {
